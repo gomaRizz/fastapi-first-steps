@@ -1,6 +1,6 @@
 # FastAPI Words first steps
 Erste Schritte mit der FastAPI in Python
-
+ 
 [
     ![Open in Remote - Containers](
         https://xebia.com/wp-content/uploads/2023/11/v1.svg    )
